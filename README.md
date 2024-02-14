@@ -64,8 +64,8 @@ Split and Merge RGB Image
 
 Split and merge HSV Image
 
- python
 Developed By: PRAVEEN S
+
 Register Number: 212222240078
 
 
